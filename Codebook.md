@@ -27,6 +27,6 @@ All Mag in column’s name replaced by Magnitude
 All start with character f in column’s name replaced by Frequency
 All start with character t in column’s name replaced by Time
 
-7.From the data set in step 5, creates a tidy data set with the average of each variable for each activity and each subject
+7.From the data set in step 6, creates a tidy data set with the average of each variable for each activity and each subject
 FinalData is created by sumarizing TidyData taking the means of each variable for each activity and each subject, after groupped by subject and activity.
 Export FinalData into FinalData.txt file.
