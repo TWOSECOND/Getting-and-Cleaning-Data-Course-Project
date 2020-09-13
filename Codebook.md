@@ -1,4 +1,4 @@
-File with R code "run_analysis.R" performs the 5 following steps (in accordance assigned task of course work):
+File with R code "run_analysis.R" performs the following steps (in accordance assigned task of course work):
 
 1.Download the dataset
 Dataset downloaded and extracted under the folder called UCI HAR Dataset
